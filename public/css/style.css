@@ -176,7 +176,7 @@ hr {
     color: #39b54a;
     border: solid 1px #39b54a;
     border-radius: 100px;
-    transition: transform .5s;
+    transition: .5s;
 }
 
 .producto:hover .articleDescription {
@@ -190,7 +190,7 @@ hr {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    transition: transform .5s;
+    transition: .5s;
 }
 
 footer section i:hover {
